@@ -1,0 +1,5 @@
+first=int(5)
+second=int(2)
+summa=(first+second)
+diff=(first-second)
+print(summa,diff)
